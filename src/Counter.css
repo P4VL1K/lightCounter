@@ -1,0 +1,9 @@
+.notActive {
+    opacity: 0.1;
+    background-color: lightgrey;
+    border-radius: 5px ;
+}
+
+.limClicks {
+    color: red;
+}
